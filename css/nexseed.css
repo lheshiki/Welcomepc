@@ -194,4 +194,24 @@ footer span strong{
 			  margin-top: 30px;
 			  margin-right: 10px;
 			  color: white;
-			  }				   
+			  }		
+
+/*Responsive*/
+
+/*小型PC用*/
+@media screen and (max-width: 1280px;)
+				  {
+				  	.images li{margin-right: 2px;}
+				  }
+
+/*タブレット用*/
+@media screen and (max-width: 960px;)
+				  {
+				  	.images li{margin-right: 2px;}
+				  }
+
+/*スマフォ用*/
+@media screen and (max-width: 480px;)
+				  {
+				  	.images li{margin-right: 2px;}
+				  }
