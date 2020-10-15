@@ -231,7 +231,7 @@ footer span strong{
 
 
     /*curriculum*/
-    .lifestyle{height: 1005px;}
+    .lifestyle{height: 1030px;}
     .lifestyle h1{font-size: 27px;}
     .images {display: flex;
     		 justify-content: center;
@@ -242,14 +242,18 @@ footer span strong{
 			  align-items: center;}    		 			  
 	.images img{width: 300px;
 				height: 300px;}
+	.images p{margin-bottom: 10px;
+			  margin-top: 5px;}				
     
     /*contact*/
     aside{width: 100%;}
     aside h1{font-size: 25px;}
     .form-left{margin-right: 20px;}
-    form div input{width: 100px;}
+    form div input{width: 100px;
+    			   margin-bottom: 15px;
+    			   }
     .final-button{margin-left: 150px;}
-    .Option{margin-top: 15px;
+    .Option{margin-top: 10px;
     		font-size: 15px;}
     .Destination{margin-top: 15px;
     			 margin-bottom: 30px;}
